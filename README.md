@@ -15,7 +15,5 @@ Ahmet Emir BAYIR 💻
 <a href= https://github.com/bayiremir?tab=repositories&q=&type=&language=redux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'> </a>
 <a href= https://github.com/bayiremir?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bayiremir&show_icons=true&bg_color=00000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayiremir)](https://github.com/anuraghazra/github-readme-stats)
 
