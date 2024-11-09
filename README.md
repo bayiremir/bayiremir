@@ -16,4 +16,6 @@ Ahmet Emir BAYIR 💻
 <a href = 'https://www.linkedin.com/in/emirbayir'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <br/>
 
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayiremir)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
